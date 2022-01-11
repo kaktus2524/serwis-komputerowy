@@ -6,6 +6,11 @@ body
     padding: 0px;
 }
 
+#main
+{
+    padding: 10px 0px 10px 10px
+}
+
 #nazwa
 {
     float: left;
@@ -40,7 +45,7 @@ body
 
 footer
 {
-    position:absolute;
+    position:sticky;
     bottom:0;
     text-align: center;
     margin: 0px;
