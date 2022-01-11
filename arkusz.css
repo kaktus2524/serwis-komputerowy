@@ -2,6 +2,8 @@ body
 {
     background-image: url(".img/hip-square.png");
     background-size: repeat;
+    margin: 0px;
+    padding: 0px;
 }
 
 #nazwa
@@ -44,5 +46,6 @@ footer
     margin: 0px;
     background: url(".img/stopka.png") repeat left top;
     height: 70px;
-    padding: 30px 10px 0px 10px;
+    width:100%;
+    padding: 30px 0px 0px 0px;
 }
