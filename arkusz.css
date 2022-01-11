@@ -32,12 +32,17 @@ body
 
 .txtcenter2
 {
-    text-align: center;
+    text-align : center;
     font-size: large;
 }
 
-#stopka
+footer
 {
     position:absolute;
     bottom:0;
+    text-align: center;
+    margin: 0px;
+    background: url(".img/stopka.png") repeat left top;
+    height: 70px;
+    padding: 30px 10px 0px 10px;
 }
